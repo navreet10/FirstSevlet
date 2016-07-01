@@ -1,0 +1,4 @@
+The superclass "javax.servlet.http.HttpServlet" was not found on the Java Build Path:
+-- right click properties, project facets, add runtime server
+
+no web.xml -> rt click ppties -> java EE tools -> generate deployment descriptor sub
