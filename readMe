@@ -2,3 +2,7 @@ The superclass "javax.servlet.http.HttpServlet" was not found on the Java Build 
 -- right click properties, project facets, add runtime server
 
 no web.xml -> rt click ppties -> java EE tools -> generate deployment descriptor sub
+
+delete tomcat settings from eclipse:
+org.eclipse.wst.server.core.prefs
+org.eclipse.jst.server.tomcat.core.prefs
